@@ -62,6 +62,15 @@ description: "Analysis of Leaks peer-to-peer distribution"
 
 ## Commentary, Questions
 
+### Russian Internet Outages shown by week by week by country.
+
+Ukraine drone activity in Moscow and other parts of Russia in the early part of May has led to
+mobile internet disruptions in previously un-impacted cities Moscow and SPB, one of which lasted 19 days. Mobile internet in Moscow/SPB was impact from May 5 [Moscow Times Mobile Internet] (https://www.themoscowtimes.com/2026/05/05/mobile-internet-outages-reported-in-moscow-and-st-petersburg-amid-security-concerns-a92682). Cloudflare Radar is does not show any notable slowdowns in [network traffic over the period 2026-05-01 to 2025-06-09](https://radar.cloudflare.com/ru?dateStart=2026-05-01&dateEnd=2026-05-09).
+
+
+### Sub-Collection GeoJSON.
+
+
 
 {::nomarkdown}
 <svg width="100" height=100>
