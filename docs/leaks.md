@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Leaks"
+title: "USA Leaks"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
 description: "Analysis of Leaks peer-to-peer distribution"
 ---
@@ -34,12 +34,28 @@ description: "Analysis of Leaks peer-to-peer distribution"
 	src="../resources/izzi-graph-hover-txt-polyline-red.js">
 </script>
 
+{::nomarkdown}
+{% include leaks-downloads-by-week-normalized-start.svg %}
+{:/}
+<div style="height: 25px;"></div>
+
+### Graph by Top Country Downloaders
+{::nomarkdown}
+{% include leaks-downloads-by-country.svg %}
+{:/}
+<div style="height: 25px;"></div>
+
+### Graph by Individual Leak
+{::nomarkdown}
+{% include leaks-downloads-by-btiha.svg %}
+{:/}
 
 <div style="height: 50px;"></div>
 
 
 ## Maps
 
+{% include leaks-usa-spatial-carto-table.html %}
 <div style="height: 50px;"></div>
 
 
@@ -56,6 +72,13 @@ description: "Analysis of Leaks peer-to-peer distribution"
 <noscript>
   <link rel="stylesheet" href="../resources/izzi-table-sort-wcag-22.css">
 </noscript>
+
+{% include leaks-meta-collection-table.html %}
+<div style="height: 50px;"></div>
+
+{% include leaks-media-objects-table.html %}
+<div style="height: 50px;"></div>
+
 
 <div style="height: 50px;"></div>
 
