@@ -41,13 +41,13 @@ description: "Analysis of Leaks peer-to-peer distribution"
 
 ### Graph by Top Country Downloaders
 {::nomarkdown}
-{% include leaks-downloads-by-country.svg %}
+{% include leaks-usa-downloads-by-country.svg %}
 {:/}
 <div style="height: 25px;"></div>
 
 ### Graph by Individual Leak
 {::nomarkdown}
-{% include leaks-downloads-by-btiha.svg %}
+{% include leaks-usa-downloads-by-btiha.svg %}
 {:/}
 
 <div style="height: 50px;"></div>
