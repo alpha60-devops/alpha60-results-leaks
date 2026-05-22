@@ -4,3 +4,5 @@
 
 ./a60-meta-collection.country.exe ../data/distributed-denial-of-secrets-usa-week.json "Leaks USA"
 
+./a60-meta-collection.btiha.exe ../data/distributed-denial-of-secrets-usa-week.json "Leaks USA"
+
