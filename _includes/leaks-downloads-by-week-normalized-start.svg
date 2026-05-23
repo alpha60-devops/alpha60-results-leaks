@@ -202,25 +202,26 @@ Line graph of media objects as peer swarms over time, from week 1 to week 26. Th
  </g>
  <g id="tic-x-labels">
 <text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
-<text x="260.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
-<text x="321.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
-<text x="382.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
-<text x="443.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
-<text x="504.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
-<text x="564.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
-<text x="625.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
-<text x="686.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
-<text x="747.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
-<text x="808.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
-<text x="868.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
-<text x="929.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
-<text x="990.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
-<text x="1051.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
-<text x="1112.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 16</text>
-<text x="1172.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 17</text>
-<text x="1233.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 18</text>
-<text x="1294.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 19</text>
-<text x="1355.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 20</text>
+<text x="280.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="360.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="440.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="520.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="600.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="680.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="760.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="840.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="920.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="1000.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
+<text x="1080.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
+<text x="1160.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
+<text x="1240.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
+<text x="1320.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+<text x="1400.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 16</text>
+<text x="1480.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 17</text>
+<text x="1560.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 18</text>
+<text x="1640.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 19</text>
+<text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 20</text>
+<text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 20</text>
  </g>
  <g id="tic-y-labels">
 <text x="164.000000" y="812.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.4M</text>
@@ -248,7 +249,7 @@ Line graph of media objects as peer swarms over time, from week 1 to week 26. Th
 <g id="composite-chart">
 <g id="line-graph-1-distributed-denial-of-secrets-usa">
  <g id="polyline-distributed-denial-of-secrets-usa">
-<polyline points="200,871.269 260.8,865.467 321.6,859.63 382.4,852.603 443.2,833.74 504,776.219 564.8,728.428 625.6,681.035 686.4,641.038 747.2,599.085 808,556.16 868.8,510.125 929.6,468.652 990.4,425.402 1051.2,378.831 1112,332.52 1172.8,292.989 1233.6,254.975 1294.4,218.682 1355.2,200 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
+<polyline points="200,871.269 280,865.467 360,859.63 440,852.603 520,833.74 600,776.219 680,728.428 760,681.035 840,641.038 920,599.085 1000,556.16 1080,510.125 1160,468.652 1240,425.402 1320,378.831 1400,332.52 1480,292.989 1560,254.975 1640,218.682 1720,200 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
  <g id="markers-distributed-denial-of-secrets-usa">
  <circle cx="200.000000" cy="871.269169" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
@@ -258,133 +259,133 @@ week: 1
 47,207
 </title>
  </circle>
-<circle cx="260.800000" cy="865.466801" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="280.000000" cy="865.466801" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 2
 78,580
 </title>
  </circle>
-<circle cx="321.600000" cy="859.630404" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="360.000000" cy="859.630404" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 3
 110,137
 </title>
  </circle>
-<circle cx="382.400000" cy="852.602942" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="440.000000" cy="852.602942" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 4
 148,134
 </title>
  </circle>
-<circle cx="443.200000" cy="833.740485" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="520.000000" cy="833.740485" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 5
 250,122
 </title>
  </circle>
-<circle cx="504.000000" cy="776.218758" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="600.000000" cy="776.218758" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 6
 561,138
 </title>
  </circle>
-<circle cx="564.800000" cy="728.428061" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="680.000000" cy="728.428061" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 7
 819,539
 </title>
  </circle>
-<circle cx="625.600000" cy="681.035186" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="760.000000" cy="681.035186" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 8
 1,075,789
 </title>
  </circle>
-<circle cx="686.400000" cy="641.037818" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="840.000000" cy="641.037818" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 9
 1,292,052
 </title>
  </circle>
-<circle cx="747.200000" cy="599.084628" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="920.000000" cy="599.084628" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 10
 1,518,890
 </title>
  </circle>
-<circle cx="808.000000" cy="556.160092" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="1000.000000" cy="556.160092" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 11
 1,750,980
 </title>
  </circle>
-<circle cx="868.800000" cy="510.125104" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="1080.000000" cy="510.125104" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 12
 1,999,888
 </title>
  </circle>
-<circle cx="929.600000" cy="468.651668" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="1160.000000" cy="468.651668" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 13
 2,224,132
 </title>
  </circle>
-<circle cx="990.400000" cy="425.402179" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="1240.000000" cy="425.402179" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 14
 2,457,979
 </title>
  </circle>
-<circle cx="1051.200000" cy="378.830657" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="1320.000000" cy="378.830657" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 15
 2,709,788
 </title>
  </circle>
-<circle cx="1112.000000" cy="332.519541" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="1400.000000" cy="332.519541" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 16
 2,960,189
 </title>
  </circle>
-<circle cx="1172.800000" cy="292.989167" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="1480.000000" cy="292.989167" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 17
 3,173,927
 </title>
  </circle>
-<circle cx="1233.600000" cy="254.974810" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="1560.000000" cy="254.974810" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 18
 3,379,468
 </title>
  </circle>
-<circle cx="1294.400000" cy="218.682133" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="1640.000000" cy="218.682133" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 19
 3,575,700
 </title>
  </circle>
-<circle cx="1355.200000" cy="200.000000" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<circle cx="1720.000000" cy="200.000000" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
 <title>
 distributed-denial-of-secrets-usa
 week: 20
@@ -392,7 +393,7 @@ week: 20
 </title>
  </circle>
  </g>
-<text x="1355.200000" y="193.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> distributed-denial-of-secrets-usa</text>
+<text x="1720.000000" y="193.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> distributed-denial-of-secrets-usa</text>
  </g>
  </g>
 </svg>

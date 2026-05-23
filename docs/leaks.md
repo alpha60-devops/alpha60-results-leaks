@@ -74,12 +74,18 @@ description: "Analysis of Leaks peer-to-peer distribution"
 </noscript>
 
 {% include leaks-meta-collection-table.html %}
-<div style="height: 50px;"></div>
+<div style="height: 25px;"></div>
 
 {% include leaks-media-objects-table.html %}
-<div style="height: 50px;"></div>
+<div style="height: 25px;"></div>
 
+{% include leaks-geo-slices-usa-weeks-1-5-15.html %}
+<div style="height: 25px;"></div>
 
+{% include leaks-geo-slices-africa.html %}
+<div style="height: 25px;"></div>
+
+{% include leaks-geo-slices-asia.html %}
 <div style="height: 50px;"></div>
 
 
